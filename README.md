@@ -28,7 +28,7 @@ I used the free [image editor GIMP](https://www.gimp.org/downloads/).
 1. Download and install GIMP, then open the [.xcf file](files/layer_file.xcf).
 1. Replace the `background` layer with any image you would like.
 1. `Export As` with the filename:
-    *  `httpsd27a44hjr9gen3cloudfrontnetassetsttsplaymatsartplaymatjpg.jpg`
+    *  `httpsd27a44hjr9gen3cloudfrontnetassetsttsplaymatsgotplaymat3jpg.jpg`
 
 ### BONUS FILE
 
