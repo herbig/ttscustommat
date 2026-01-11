@@ -1,4 +1,7 @@
-## Sorcery: Contested Realm TTS Custom Black Playmat!
+## Updated 1/10/26 for Gothic!
+If these files do not work please ping `@herbig` in Discord to fix!
+
+## Sorcery: Contested Realm TTS Custom Black Playmat
 
 ![screenshot](files/screenshot.png "Screenshot")
 
