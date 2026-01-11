@@ -5,7 +5,7 @@
 ### How do I install this?
 
 1. Locate the TTS `Mods/Images` asset folder.
-2. Place [this black playmat image](httpsd27a44hjr9gen3cloudfrontnetassetsttsplaymatsartplaymatjpg.jpg) into this directory (do not change the file name).
+2. Place [this black playmat image](httpsd27a44hjr9gen3cloudfrontnetassetsttsplaymatsgotplaymat3jpg.jpg) into this directory (do not change the file name).
 
 ### Where is the TTS Images folder?
 
@@ -21,8 +21,6 @@ cd ~/Library/Tabletop\ Simulator/Mods/Images && open .
 
 The folder is *usually* in `C:\Users\<YourUsername>\Documents\My Games\Tabletop Simulator\Mods\Images`
 
-Do some Windows stuff to find it, is File Explorer still a thing?
-
 ### How can I create my own playmat?
 
 I used the free [image editor GIMP](https://www.gimp.org/downloads/).
@@ -34,12 +32,11 @@ I used the free [image editor GIMP](https://www.gimp.org/downloads/).
 
 ### BONUS FILE
 
-If you would also like to replace the pixelated background with a simple blue color, you can add [this image](httpsd27a44hjr9gen3cloudfrontnetassetsttsskyboxartskyboxjpg.jpg) into the same TTS directory.  A backup of the original is provided [here](files/BACKUP_httpsd27a44hjr9gen3cloudfrontnetassetsttsskyboxartskyboxjpg.jpg).
+If you would also like to replace the pixelated background with a simple blue color, you can add [this image](httpsd27a44hjr9gen3cloudfrontnetassetsttsskyboxgotskyboxjpgss.jpg) into the same TTS directory.
 
 ### Anything else?
 
 * Only you will see the custom playmat, your opponent will continue to see the default image.
-* A [backup of the original](files/BACKUP_httpsd27a44hjr9gen3cloudfrontnetassetsttsplaymatsartplaymatjpg.jpg) is provided, just in case.  Rename it and remove `BACKUP_` from the filename and place it in `Images`.
 * If the playmat has a red tint, it is due to TTS's ambient lighting. At the top of TTS go to `Options -> Lighting` then choose `Gradient`.
 * Future Sorcery TTS Mod updates may break this. The filename will be updated here if that happens.
 * Check out the [Four Cores](https://fourcores.xyz/install) app for all your Sorcery needs!
